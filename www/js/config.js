@@ -30,15 +30,15 @@ var config = {
 };
 
 var QBUser1 = {
-        id: 67525,
+        id: 23969907,
         name: 'Surya Kumaran',
         login: 'suryakumaran',
         pass: 'suryakumaran123'
     },
     QBUser2 = {
-        id: 20215853,
-        name: 'CordovaUser2',
-        login: 'CordovaUser2',
+        id: 23970368,
+        name: 'User2',
+        login: 'User2',
         pass: 'CordovaUser2'
     };
 
