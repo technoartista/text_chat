@@ -31,13 +31,13 @@ var config = {
 
 var QBUser1 = {
         id: 20215823,
-        name: 'CordovaUser1',
+        name: 'User1',
         login: 'CordovaUser1',
         pass: 'CordovaUser1'
     },
     QBUser2 = {
         id: 20215853,
-        name: 'CordovaUser2',
+        name: 'User2',
         login: 'CordovaUser2',
         pass: 'CordovaUser2'
     };
