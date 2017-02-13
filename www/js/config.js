@@ -1,7 +1,7 @@
 var QBApp = {
-    appId: 48856,
-    authKey: 'j-VdGKXC6AucLQw',
-    authSecret: 'JcUa5b66MGuZJZj'
+    appId: 53667,
+    authKey: 'S2PGNzmyCcQ9BX7',
+    authSecret: 'NRa3bfUTyTeJ5t9'
 };
 
 var config = {
@@ -18,7 +18,7 @@ var config = {
     stickerpipe: {
         elId: 'stickers_btn',
         apiKey: '847b82c49db21ecec88c510e377b452c',
-        enableEmojiTab: false,
+        enableEmojiTab: true,
         enableHistoryTab: true,
         enableStoreTab: true,
 
@@ -30,10 +30,10 @@ var config = {
 };
 
 var QBUser1 = {
-        id: 20215823,
-        name: 'CordovaUser1',
-        login: 'CordovaUser1',
-        pass: 'CordovaUser1'
+        id: 67525,
+        name: 'Surya Kumaran',
+        login: 'suryakumaran',
+        pass: 'suryakumaran123'
     },
     QBUser2 = {
         id: 20215853,
