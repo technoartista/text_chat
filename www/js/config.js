@@ -18,7 +18,7 @@ var config = {
     stickerpipe: {
         elId: 'stickers_btn',
         apiKey: '847b82c49db21ecec88c510e377b452c',
-        enableEmojiTab: true,
+        enableEmojiTab: false,
         enableHistoryTab: true,
         enableStoreTab: true,
 
