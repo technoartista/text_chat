@@ -1,7 +1,7 @@
 var QBApp = {
-    appId: 48856,
-    authKey: 'j-VdGKXC6AucLQw',
-    authSecret: 'JcUa5b66MGuZJZj'
+    appId: 53667,
+    authKey: 'S2PGNzmyCcQ9BX7',
+    authSecret: 'NRa3bfUTyTeJ5t9'
 };
 
 var config = {
@@ -30,15 +30,15 @@ var config = {
 };
 
 var QBUser1 = {
-        id: 20215823,
-        name: 'CordovaUser1',
-        login: 'CordovaUser1',
-        pass: 'CordovaUser1'
+        id: 23969907,
+        name: 'Surya Kumaran',
+        login: 'suryakumaran',
+        pass: 'suryakumaran123'
     },
     QBUser2 = {
-        id: 20215853,
-        name: 'CordovaUser2',
-        login: 'CordovaUser2',
+        id: 23970368,
+        name: 'User2',
+        login: 'User2',
         pass: 'CordovaUser2'
     };
 
